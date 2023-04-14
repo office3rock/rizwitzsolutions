@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://padenclothing.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://rizwitzsolutions.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "padenclothing", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "rizwitzsolutions.com", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "padenclothing", // This allows an alternative site description for meta data for pages.
+    "rizwitzsolutions.com", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "padenclothing", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "rizwitzsolutions.com", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "padenclothing",
+    title: "rizwitzsolutions.com",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://padenclothing.com/",
+        url: "https://rizwitzsolutions.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://padenclothing.com/contact",
+        url: "https://rizwitzsolutions.com/contact",
       },
     ],
   },
@@ -38,18 +38,18 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://padenclothing.com/",
+        url: "https://rizwitzsolutions.com/",
       },
       {
         label: "Sitemap",
-        url: "https://padenclothing.com/sitemap.xml",
+        url: "https://rizwitzsolutions.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://padenclothing.com/contact",
+        url: "https://rizwitzsolutions.com/contact",
       },
-      
+     
     ],
   },
   socialLinks: {
@@ -66,13 +66,13 @@ module.exports = {
     whatsapp: "",
   },
   contactWidget: {
-    title: "Contact Us",
+    title: "Contact Built with Draftbox",
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "padenclothing",
+    title: "rizwitzsolutions.com",
     description:
-      "padenclothing",
+      "rizwitzsolutions.com",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "padenclothing",
+    title: "tedbakerasale",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "padenclothing",
+  siteTitle: "rizwitzsolutions.com",
   siteDescription:
-    "padenclothing",
+    "rizwitzsolutions.com",
   language: "he",
   logoUrl: "",
   iconUrl: "",
