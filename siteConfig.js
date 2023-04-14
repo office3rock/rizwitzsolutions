@@ -5,19 +5,19 @@ module.exports = {
 
   siteTitleMeta: "padenclothing", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "utnupes", // This allows an alternative site description for meta data for pages.
+    "padenclothing", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "utnupes", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "padenclothing", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "utnupes",
+    title: "padenclothing",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
